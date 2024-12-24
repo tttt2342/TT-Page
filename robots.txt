@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ttrrlove.com/TT-Page//sitemap.xml
+User-agent: * Disallow: Sitemap: https://ttrrlove.com/TTPage//sitemap.xml
